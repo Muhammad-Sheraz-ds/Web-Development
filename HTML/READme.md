@@ -1,6 +1,6 @@
 # Comprehensive HTML Tutorial
 
-Welcome to the Comprehensive HTML Tutorial repository based on the lectures from W3Schools. This tutorial is designed to be a comprehensive and beginner-friendly resource for learning HTML (Hypertext Markup Language). HTML is the standard markup language used to create and design web pages. Whether you're a beginner looking to start your web development journey or someone looking to refresh their HTML skills, this tutorial is here to guide you.
+Welcome to the Comprehensive HTML Tutorial repository, an extensive guide inspired by the lectures from W3Schools. This tutorial aims to provide a comprehensive and beginner-friendly resource for learning HTML (Hypertext Markup Language). HTML is the standard markup language used to create and design web pages. Whether you're a beginner embarking on your web development journey or someone looking to refine their HTML skills, this tutorial is crafted to guide you through the essentials and beyond.
 
 ## Table of Contents
 
@@ -46,6 +46,10 @@ Welcome to the Comprehensive HTML Tutorial repository based on the lectures from
 - [HTML Best Practices](#html-best-practices)
   - [Code Structure](#code-structure)
   - [Naming Conventions](#naming-conventions)
+- [Advanced Topics](#advanced-topics)
+  - [Canvas](#canvas)
+  - [Web Storage](#web-storage)
+  - [Geolocation](#geolocation)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
@@ -200,6 +204,20 @@ Follow best practices for organizing and structuring your HTML code.
 
 Adopt naming conventions to maintain consistency in your HTML code.
 
+## Advanced Topics
+
+### Canvas
+
+Explore the `<canvas>` element for drawing graphics and animations.
+
+### Web Storage
+
+Learn about local and session storage for client-side data persistence.
+
+### Geolocation
+
+Discover how to use HTML5 geolocation for obtaining user location.
+
 ## How to Use
 
 To get started with this HTML tutorial:
@@ -219,6 +237,6 @@ If you have questions, suggestions, or feedback, feel free to create an issue or
 
 ## Happy Coding! 🚀
 
-We hope this HTML tutorial enhances your web development skills. Keep coding, experimenting, and building amazing web experiences! 😄
+We hope this extended HTML tutorial takes your web development skills to the next level. Keep coding, experimenting, and building amazing web experiences! 😄
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=w3school-html-tutorial)](https://github.com/w3school-html-tutorial)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=w3school-html-tutorial)](https://github.com/w
