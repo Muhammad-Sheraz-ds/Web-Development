@@ -122,4 +122,103 @@ Learn about image attributes to control the display and behavior of images.
 
 ### Form Elements
 
-Understand the basics of HTML forms and the elements involved
+Understand the basics of HTML forms and the elements involved.
+
+### Input Types
+
+Explore different input types for form elements, such as text boxes, checkboxes, and radio buttons.
+
+### Form Submission
+
+Learn how to handle form submission using HTML.
+
+## Tables
+
+### Creating Tables
+
+Use HTML to create tables for organizing and displaying tabular data.
+
+### Table Elements
+
+Explore table elements for headers, rows, and cells.
+
+## Semantic HTML
+
+### Semantic Elements
+
+Understand the importance of semantic HTML elements for better document structure.
+
+### Accessibility
+
+Learn about making your HTML content more accessible to users with disabilities.
+
+## HTML5
+
+### New Structure Elements
+
+Explore new structural elements introduced in HTML5, such as `<header>`, `<nav>`, and `<footer>`.
+
+### New Media Elements
+
+Learn about new media elements like `<audio>` and `<video>`.
+
+### New Form Elements
+
+Discover new form elements introduced in HTML5 for enhanced user experience.
+
+## CSS Integration
+
+### Inline Styles
+
+Apply styles directly within HTML elements using inline styles.
+
+### Internal Styles
+
+Use internal styles to define CSS within the HTML document.
+
+### External Stylesheets
+
+Link external stylesheets to apply consistent styles across multiple pages.
+
+## Responsive Design
+
+### Viewport Meta Tag
+
+Understand how to use the viewport meta tag for responsive design.
+
+### Media Queries
+
+Create responsive designs using media queries in CSS.
+
+## HTML Best Practices
+
+### Code Structure
+
+Follow best practices for organizing and structuring your HTML code.
+
+### Naming Conventions
+
+Adopt naming conventions to maintain consistency in your HTML code.
+
+## How to Use
+
+To get started with this HTML tutorial:
+
+1. Clone this repository to your local machine using `git clone`.
+2. Navigate to the relevant section of the tutorial based on your learning needs.
+3. Review the provided examples and explanations.
+4. Create your HTML files and experiment with the code examples.
+5. Complete the exercises to reinforce your understanding.
+6. Use this tutorial as a reference while working on your web development projects.
+
+## Get in Touch
+
+If you have questions, suggestions, or feedback, feel free to create an issue or reach out to the contributors.
+
+---
+
+## Happy Coding! 🚀
+
+We hope this HTML tutorial enhances your web development skills. Keep coding, experimenting, and building amazing web experiences! 😄
+
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=w3school-html-tutorial)](https://github.com/w3school-html-tutorial)
